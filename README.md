@@ -1,7 +1,5 @@
-# Workshop Deck Playground
+# Kahoot Workshop
 
-This is a site for experimental new workshops using [MDX Deck](https://github.com/jxnblk/mdx-deck) + Gatsby.
+A MDX slideshow for our Kahoot hacking. It's great fun for students and a fan favourite. 
 
-MIT License
-
-*Made by @MatthewStanciu + @lachlanjc for Hack Club, 2020.*
+Site setup based on Hack Club's [`workshop-deck-playground`](https://github.com/hackclub/workshop-deck-playground)
