@@ -3,7 +3,4 @@
   "github": {
     "silent": true
   },
-  "redirects": [
-    { "source": "/", "destination": "/kahoot" }
-  ]
 }
