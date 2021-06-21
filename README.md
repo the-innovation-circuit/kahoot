@@ -103,6 +103,4 @@ Here are some samples:
 - [Send the Rick Roll lyrics to Kahoot](https://repl.it/@sampoder/rickroll-kahoot), it has a string of the song lyric and then splits that into an array and then loops over that array and joins with the username being a song lyric line.
 - [A Custom Kahoot CLI](https://repl.it/@sampoder/kahoot-custom-client), when a new question comes in it presents the choice and then takes in user input for the answer.
 
-Hope you enjoyed! Message me (@sampoder) on Slack if you need help / have feedback :D
-
 > Site setup based on Hack Club's [`workshop-deck-playground`](https://github.com/hackclub/workshop-deck-playground)
